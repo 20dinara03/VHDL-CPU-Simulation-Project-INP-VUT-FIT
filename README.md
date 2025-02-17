@@ -1,4 +1,4 @@
-# CPU Simulation Project (INC)
+# CPU Simulation Project (INP)
 
 ## Overview
 
